@@ -1,0 +1,222 @@
+[
+  {
+    "name": "iPhone 17",
+    "brand": "Apple",
+    "price": 82900,
+    "camera": "48MP main (f/1.6, OIS) + 12MP ultrawide, 18MP front; 4K 120fps video",
+    "battery": "3279mAh, 25W wired, 15W MagSafe",
+    "display": "6.3\" Super Retina XDR OLED, 120Hz ProMotion, 2000 nits",
+    "os": "iOS 19 (7+ years updates)",
+    "size": "Compact, 177g",
+    "image": "https://via.placeholder.com/150?text=iPhone+17"
+  },
+  {
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "price": 119900,
+    "camera": "48MP wide + 48MP ultrawide + 12MP 5x telephoto, 18MP front",
+    "battery": "3582mAh, 30W wired",
+    "display": "6.3\" LTPO OLED, 120Hz, 2000 nits",
+    "os": "iOS 19 (7+ years)",
+    "size": "Mid-size, 199g",
+    "image": "https://via.placeholder.com/150?text=iPhone+17+Pro"
+  },
+  {
+    "name": "iPhone 17 Pro Max",
+    "brand": "Apple",
+    "price": 149900,
+    "camera": "48MP triple (5x zoom), 18MP front",
+    "battery": "4685mAh, 30W wired",
+    "display": "6.9\" LTPO OLED, 120Hz, 2000 nits",
+    "os": "iOS 19 (7+ years)",
+    "size": "Large, 233g",
+    "image": "https://via.placeholder.com/150?text=iPhone+17+Pro+Max"
+  },
+  {
+    "name": "iPhone Air",
+    "brand": "Apple",
+    "price": 84900,
+    "camera": "48MP main + 12MP ultrawide, 18MP front",
+    "battery": "3279mAh, 25W wired",
+    "display": "6.5\" OLED, 120Hz, 2000 nits",
+    "os": "iOS 19 (7+ years)",
+    "size": "Ultra-thin, 165g",
+    "image": "https://via.placeholder.com/150?text=iPhone+Air"
+  },
+  {
+    "name": "iPhone 16e",
+    "brand": "Apple",
+    "price": 59900,
+    "camera": "48MP main, 12MP front",
+    "battery": "3355mAh, 20W wired",
+    "display": "6.1\" OLED, 60Hz",
+    "os": "iOS 18 (6+ years)",
+    "size": "Compact, 167g",
+    "image": "https://via.placeholder.com/150?text=iPhone+16e"
+  },
+  {
+    "name": "Samsung Galaxy S25",
+    "brand": "Samsung",
+    "price": 79900,
+    "camera": "50MP main (OIS) + 12MP ultrawide + 10MP 3x telephoto, 12MP front",
+    "battery": "4000mAh, 45W wired, 15W wireless",
+    "display": "6.2\" Dynamic AMOLED 2X, 120Hz LTPO, 2600 nits",
+    "os": "Android 15 + One UI 7 (7 years updates)",
+    "size": "Compact, 168g",
+    "image": "https://via.placeholder.com/150?text=S25"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "price": 124990,
+    "camera": "200MP main + 12MP ultrawide + 10MP 3x + 50MP 5x, 12MP front",
+    "battery": "5000mAh, 45W wired",
+    "display": "6.8\" Dynamic AMOLED 2X, 120Hz, 2600 nits",
+    "os": "Android 15 (7 years)",
+    "size": "Large, 232g",
+    "image": "https://via.placeholder.com/150?text=S25+Ultra"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold7",
+    "brand": "Samsung",
+    "price": 174999,
+    "camera": "200MP main + 12MP ultrawide + 10MP telephoto, 10MP coverscreen front",
+    "battery": "4400mAh, 25W wired",
+    "display": "8\" inner AMOLED (120Hz) + 6.5\" outer",
+    "os": "Android 15 (7 years)",
+    "size": "Foldable, 239g",
+    "image": "https://via.placeholder.com/150?text=Z+Fold7"
+  },
+  {
+    "name": "Samsung Galaxy A35",
+    "brand": "Samsung",
+    "price": 30999,
+    "camera": "50MP main (OIS) + 8MP ultrawide + 5MP macro, 13MP front",
+    "battery": "5000mAh, 25W wired",
+    "display": "6.6\" Super AMOLED, 120Hz",
+    "os": "Android 14 (4 years)",
+    "size": "Mid-size, 209g",
+    "image": "https://via.placeholder.com/150?text=A35"
+  },
+  {
+    "name": "Google Pixel 7a",
+    "brand": "Google",
+    "price": 25000,
+    "camera": "64MP main + 13MP ultra-wide, OIS, excellent low-light",
+    "battery": "4385mAh, 18W charging",
+    "display": "6.1\" OLED, 90Hz",
+    "os": "Android 13 (7 years updates)",
+    "size": "Compact, one-hand friendly",
+    "image": "https://via.placeholder.com/150?text=Pixel+7a"
+  },
+  {
+    "name": "Samsung Galaxy A34",
+    "brand": "Samsung",
+    "price": 28000,
+    "camera": "48MP main + 8MP ultra-wide, OIS",
+    "battery": "5000mAh, 25W charging",
+    "display": "6.6\" Super AMOLED, 120Hz",
+    "os": "Android 13 (4 years updates)",
+    "size": "Mid-size",
+    "image": "https://via.placeholder.com/150?text=A34"
+  },
+  {
+    "name": "OnePlus 12R",
+    "brand": "OnePlus",
+    "price": 45000,
+    "camera": "50MP main + 8MP ultra-wide + 2MP macro, OIS",
+    "battery": "5500mAh, 100W fast charging",
+    "display": "6.78\" AMOLED, 120Hz",
+    "os": "Android 14 (4 years updates)",
+    "size": "Large",
+    "image": "https://via.placeholder.com/150?text=OnePlus+12R"
+  },
+  {
+    "name": "iPhone SE (2022)",
+    "brand": "Apple",
+    "price": 45000,
+    "camera": "12MP main, OIS",
+    "battery": "2018mAh, 20W charging",
+    "display": "4.7\" Retina IPS, 60Hz",
+    "os": "iOS 16 (5+ years updates)",
+    "size": "Very compact",
+    "image": "https://via.placeholder.com/150?text=iPhone+SE"
+  },
+  {
+    "name": "Nothing Phone (2a)",
+    "brand": "Nothing",
+    "price": 23000,
+    "camera": "50MP main + 50MP ultra-wide, EIS",
+    "battery": "5000mAh, 45W charging",
+    "display": "6.7\" AMOLED, 120Hz",
+    "os": "Android 14 (3 years updates)",
+    "size": "Mid-size",
+    "image": "https://via.placeholder.com/150?text=Nothing+2a"
+  },
+  {
+    "name": "Poco X6",
+    "brand": "Poco",
+    "price": 15000,
+    "camera": "64MP main + 8MP ultra-wide, EIS",
+    "battery": "5100mAh, 33W charging",
+    "display": "6.67\" AMOLED, 120Hz",
+    "os": "Android 14 (2 years updates)",
+    "size": "Mid-size",
+    "image": "https://via.placeholder.com/150?text=Poco+X6"
+  },
+  {
+    "name": "Motorola Edge 50 Fusion",
+    "brand": "Motorola",
+    "price": 20000,
+    "camera": "50MP main + 13MP ultra-wide, OIS",
+    "battery": "4400mAh, 68W charging",
+    "display": "6.7\" pOLED, 144Hz",
+    "os": "Android 14 (3 years updates)",
+    "size": "Mid-size",
+    "image": "https://via.placeholder.com/150?text=Edge+50"
+  },
+  {
+    "name": "Realme Narzo 70",
+    "brand": "Realme",
+    "price": 12000,
+    "camera": "50MP main, EIS",
+    "battery": "5000mAh, 45W charging",
+    "display": "6.7\" IPS, 120Hz",
+    "os": "Android 14 (2 years updates)",
+    "size": "Large",
+    "image": "https://via.placeholder.com/150?text=Narzo+70"
+  },
+  {
+    "name": "Vivo Y200",
+    "brand": "Vivo",
+    "price": 18000,
+    "camera": "50MP main + 2MP depth, EIS",
+    "battery": "5000mAh, 44W charging",
+    "display": "6.67\" AMOLED, 120Hz",
+    "os": "Android 14 (2 years updates)",
+    "size": "Mid-size",
+    "image": "https://via.placeholder.com/150?text=Y200"
+  },
+  {
+    "name": "Oppo A79",
+    "brand": "Oppo",
+    "price": 16000,
+    "camera": "50MP main, EIS",
+    "battery": "5000mAh, 33W charging",
+    "display": "6.72\" LCD, 90Hz",
+    "os": "Android 13 (2 years updates)",
+    "size": "Large",
+    "image": "https://via.placeholder.com/150?text=A79"
+  },
+  {
+    "name": "Samsung Galaxy S27 (Speculative)",
+    "brand": "Samsung",
+    "price": 95000,
+    "camera": "50MP triple (5x zoom, OIS), 12MP front",
+    "battery": "4500mAh, 65W wired",
+    "display": "6.3\" AMOLED, 144Hz, 3000 nits",
+    "os": "Android 17 (7 years)",
+    "size": "Compact, 170g",
+    "image": "https://via.placeholder.com/150?text=S27"
+  }
+]
