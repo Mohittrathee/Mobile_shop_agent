@@ -1,4 +1,3 @@
-// app/page.tsx
 'use client';
 
 import { useState, useRef, useEffect } from 'react';
@@ -55,10 +54,12 @@ User: ${userMsg}`;
   };
 
   const renderMessage = (content: string) => {
-    const html = marked.parseInline(content);
-    const clean = DOMPurify.sanitize(html);
-    return { __html: clean };
-  };
+  const html = marked.parseInline(content);
+  const clean = typeof window !== 'undefined' 
+    ? DOMPurify.sanitize(html) 
+    : html; 
+  return { __html: clean };
+};
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-50 to-blue-50 flex items-center justify-center p-4">
