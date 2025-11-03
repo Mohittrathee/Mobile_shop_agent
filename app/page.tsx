@@ -3,7 +3,11 @@
 import { useState, useRef, useEffect } from 'react';
 import { marked } from 'marked';
 import DOMPurify from 'dompurify';
+import { sanitize } from 'isomorphic-dompurify';
 import phonesData from '../data/phones.json';
+  const createDOMPurify = typeof window !== 'undefined' 
+  ? require('dompurify').default 
+  : null;
 
 marked.setOptions({ breaks: true });
 
@@ -53,12 +57,10 @@ User: ${userMsg}`;
     }
   };
 
-  const renderMessage = (content: string) => {
-  const html = marked.parseInline(content);
-  const clean = typeof window !== 'undefined' 
-    ? DOMPurify.sanitize(html) 
-    : html; 
-  return { __html: clean };
+  const renderMessage = (content: string): { __html: string } => {
+  const rawHtml = marked.parseInline(content);
+  const cleanHtml = sanitize(rawHtml);
+  return { __html: cleanHtml };
 };
 
   return (
